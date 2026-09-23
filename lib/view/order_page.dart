@@ -82,7 +82,7 @@ class _OrderPageState extends State<OrderPage> {
                     currentStep: 3,
                     height: 4,
                     padding: 3,
-                    stepWidths: const [1, 3, 2, 2],
+                    stepWidths: const [17, 35, 26, 22],
                     selectedColor: Colors.pink,
                     unselectedColor: Colors.grey.shade300,
                     roundedEdges: const Radius.circular(10),
